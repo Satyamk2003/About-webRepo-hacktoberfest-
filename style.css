@@ -39,13 +39,15 @@ h1{
     font-weight: bold;
 }
 }
-
 .info p {
+color: purple;
 
-    color: purple;
+    font-family: 'opem Sans', sans-serif;
 
-    font-family: 'open sans', sans-serif;
+    font-weight: italic;
 
-    font-weight: Italic;
 
 }
+
+
+

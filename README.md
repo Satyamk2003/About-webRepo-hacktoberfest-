@@ -1,2 +1,4 @@
 # About-webRepo-hacktoberfest-
-About me
+About us
+My name is satyam
+
